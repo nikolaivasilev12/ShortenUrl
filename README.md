@@ -1,6 +1,6 @@
 # shorten-url
 
-> A url shortener
+> A simple node/vue url shortener, connected to mongoDB
 
 ## Build Setup
 
